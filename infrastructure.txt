@@ -7,7 +7,7 @@
 	- &..syntax
 
 /*.txt/
-	- (type)&<http://if.fault.io/factors/chapter#kleptic>
+	- (type)&<http://if.fault.io/factors/text.chapter#kleptic.fault-1>
 
 /*.py/
-	- (type)&<http://if.fault.io/factors/python-module#v3>
+	- (type)&<http://if.fault.io/factors/python.module#psf-v3>
